@@ -1,6 +1,6 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, thanks for stopping by. Nice to see you!</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, thanks for stopping by!</h2>
 
-<img align="right" height="250" alt="GIF" src="https://image.ibb.co/jEkcdd/front_end_developers_openings_1.gif" />
+<img align="right" height="250" alt="GIF" src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/shutterstock_390754486-e1495655228528-1024x886.jpg" />
 
 
 👨🏻‍💻 About me!
@@ -10,6 +10,9 @@
 - 💜 I work with tech entrepreneurs around the world building remarkable products
 - ⚡ Excited to create open-source projects
 
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 
