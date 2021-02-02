@@ -19,70 +19,70 @@
 
   <a href="https://www.facebook.com/t0ransahu"
     ><img
-      src="https://simpleicons.org/icons/facebook.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg"
       alt="facebook"
       width="24"
       height="24"
   /></a>
   <a href="https://github.com/toransahu"
     ><img
-      src="https://simpleicons.org/icons/github.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"
       alt="github"
       width="24"
       height="24"
   /></a>
   <a href="https://hackerrank.com/toransahu"
     ><img
-      src="https://simpleicons.org/icons/hackerrank.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg"
       alt="hackerrank"
       width="24"
       height="24"
   /></a>
   <a href="https://www.instagram.com/t0ransahu"
     ><img
-      src="https://simpleicons.org/icons/instagram.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"
       alt="instagram"
       width="24"
       height="24"
   /></a>
   <a href="https://linkedin.com/in/toransahu"
     ><img
-      src="https://simpleicons.org/icons/linkedin.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"
       alt="linkedin"
       width="24"
       height="24"
   /></a>
   <a href="https://medium.com/@toransahu"
     ><img
-      src="https://simpleicons.org/icons/medium.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg"
       alt="medium"
       width="24"
       height="24"
   /></a>
   <a href="https://stackoverflow.com/users/5356343/toran-sahu"
     ><img
-      src="https://simpleicons.org/icons/stackoverflow.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg"
       alt="stackoverflow"
       width="24"
       height="24"
   /></a>
   <a href="https://www.strava.com/athletes/toransahu"
     ><img
-      src="https://simpleicons.org/icons/strava.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/strava.svg"
       alt="strava"
       width="24"
       height="24"
   /></a>
   <a href="https://twitter.com/t0ransahu"
     ><img
-      src="https://simpleicons.org/icons/twitter.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg"
       alt="twitter"
       width="24"
       height="24"
   /></a>
   <a href="mailto:toran.sahu@yahoo.com"
     ><img
-      src="https://simpleicons.org/icons/gmail.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg"
       alt="twitter"
       width="24"
       height="24"
@@ -115,11 +115,11 @@
 [twitter]: https://twitter.com/t0ransahu
 
 [//]: icons
-[facebook-icon]: https://simpleicons.org/icons/facebook.svg
-[github-icon]: https://simpleicons.org/icons/github.svg
-[hackerrank-icon]: https://simpleicons.org/icons/hackerrank.svg
-[instagram-icon]: https://simpleicons.org/icons/instagram.svg
-[linkedin-icon]: https://simpleicons.org/icons/linkedin.svg
-[medium-icon]: https://simpleicons.org/icons/medium.svg
-[strava-icon]: https://simpleicons.org/icons/strava.svg
-[twitter-icon]: https://simpleicons.org/icons/twitter.svg
+[facebook-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg
+[github-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg
+[hackerrank-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg
+[instagram-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg
+[linkedin-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg
+[medium-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg
+[strava-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/strava.svg
+[twitter-icon]: https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg
